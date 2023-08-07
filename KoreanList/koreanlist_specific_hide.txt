@@ -282,6 +282,7 @@ heraldcorp.com##div[class^="photoAd"]
 heraldcorp.com###inbnetListingP
 mbiz.heraldcorp.com###mobitree
 sporbiz.co.kr##div[id^="mobonDivBanner"]
+anilife.live##.MainBnnWrap
 phpschool.com##.main_banner
 phpschool.com##.main_job
 g-enews.com##.mad
