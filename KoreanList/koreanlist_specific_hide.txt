@@ -1,3 +1,5 @@
+tvreport.co.kr##.tvreport-gsm-video-ad
+humoruniv.com##a[href^="https://shopping-m.ggeal.com"]
 veritas.kr##.s-bn
 mimint.co.kr##.ad
 kcsnews.co.kr##[class^="rightad"]
@@ -30,7 +32,7 @@ uuoobe.kr##TABLE[cellspacing="0"][cellpadding="0"][align="center"][width="730"][
 techholic.co.kr###articleBody .width-250.height-250
 kookje.co.kr##P.right[style="width:250px;height:250px;border:1px solid #ddd"]
 christiantoday.co.kr##.unit-banner
-adic.or.kr##.banner
+adic.or.kr,agit*.xyz##.banner
 hungryapp.co.kr##DIV[class^="fixed-top"]
 alba.co.kr###MainBanner
 mydaily.co.kr##DIV[style="width:706px; /**/overflow:hidden; margin-bottom:-20px; margin-top:-20px; padding:10px 0;"]
@@ -77,6 +79,7 @@ yonhapnews.co.kr##.goolge-banner
 christiantoday.co.kr###div_laypopup
 ytn.co.kr##DIV[style="margin:0 auto;width:628px;border:1px solid #cbcccf;padding:10px 5px 10px 15px;margin-bottom:10px;overflow:hidden;margin-top: 25px;"]
 uuoobe.kr##TABLE[cellspacing="0"][cellpadding="0"][width="230"][height="230"][border="0"]
+watchfreejavonline.co##div[class*="custom-html-widget"]
 zdnet.co.kr##div[class*="right_bn"]
 cyw.pe.kr##TABLE[height="1539"] > tbody > tr:nth-of-type(5)
 livere.me###livereAd
@@ -279,6 +282,7 @@ heraldcorp.com##div[class^="photoAd"]
 heraldcorp.com###inbnetListingP
 mbiz.heraldcorp.com###mobitree
 sporbiz.co.kr##div[id^="mobonDivBanner"]
+anilife.live##.MainBnnWrap
 phpschool.com##.main_banner
 phpschool.com##.main_job
 g-enews.com##.mad
@@ -310,6 +314,8 @@ chol.com##.lnb3_shopping
 moneynet.co.kr##.scban_wrap
 moneynet.co.kr##div[class*="topban"]
 naver.com##.MM_DA_BRANDING_BANNER
+naver.com##.MM_DA_SMARTCHANNEL
+naver.com##.id_nmap
 naver.com###veta_top
 naver.com###veta_branding
 sports-g.com##.iwm_ba
@@ -318,6 +324,7 @@ fomos.kr###banner_center
 qtum.or.kr##.gpe_contents_xecon > div.xe_content:first-child
 fmkorea.com###adpost
 ccdn.co.kr##.width-320
+dcinside.com##.adv-group
 gall.dcinside.com##.rightbanner
 copytoon77.com##.banner_m
 newstown.co.kr##a:not([href*="newstown"]):not([href*="ZADW35BNPZ"]) > img[src*="/bannerpop/"]
@@ -368,6 +375,7 @@ m.search.naver.com##.sp_power
 idomin.com##a:not([href^="/com/"]):not([href$="gndomin"]) > img[src*="/bannerpop/"]
 tvgook43.com##div[class^="popup"]
 influencernews.kr###wingBanner
+kpanews.co.kr##.area_article_ad
 dogjoa34.net##.at-footer
 fntoday.co.kr##.banner_box > a:not([href*="http://www.fntoday"]):not([href*="UCXZC42ea-iwib-ljBNNA3Fg"]):not([href^="/news"])
 usjournal.kr###articleBody1
@@ -443,6 +451,7 @@ dak.gg##.pa_top4
 dak.gg##div[id^="google_ads_iframe"]
 gukjenews.com##.banner_box
 namu.wiki###D7bCic0bB
+namu.wiki##.E-YDYcoo
 a5.avpong.net##.s_body_top
 cafe24.com##a[href^="https://open.kakao.com/"]
 cafe24.com##.pum-close
@@ -468,3 +477,13 @@ medicaltimes.com##.sideBigAD
 medicaltimes.com##div[id^="viewAD"]
 digitalchosun.dizzo.com##div[class^="wrap_ad_inner"]
 digitalchosun.dizzo.com###iwm_horizontal
+ssodam.com##ageModal
+m.ekn.kr##.__staxbn_wrap
+news.oasisfeed.com##div[id^="advFigure"]
+news.oasisfeed.com##.coupangFloating
+jusoya.com###top_banner_container
+totosave.com##.basic-post-link
+totosave.com##.w-banner
+m.cafe.naver.com##[class='banner_add bottom']
+m.cafe.naver.com##[class='banner_add']
+cafe.naver.com###sf_body
